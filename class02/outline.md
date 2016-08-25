@@ -1,10 +1,12 @@
+# Class Outline
+
 ## Finalize Teams & Projects
 
 ## Review Example Milestones
 
 ## Workshop
 
-Scripting refresher: @todo
+Scripting refresher: Coloring Cubes
 
 ## Due Next Class
 
