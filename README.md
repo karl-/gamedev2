@@ -1,2 +1,3 @@
-# gamedev2
-Lesson plans and course materials for Game Development II.
+# Game Development II
+
+Lesson plans and course materials for Game Development II at Ohio University.
