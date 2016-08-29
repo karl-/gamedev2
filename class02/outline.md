@@ -4,11 +4,10 @@
 
 ## Workshop
 
-Scripting refresher: @todo
+Scripting refresher: exciting_cubes
 
 ## Due Next Class
 
 - Team milestones
 - Project management system set up
 - Extra: Initial design cases / tickets created in Project Manager
-- Read Norton chapter 7
