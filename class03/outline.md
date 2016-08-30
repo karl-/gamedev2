@@ -2,15 +2,17 @@
 
 - Also make sure I have access to whatever project manager your team has decided on.
 
+# Verify students can access Assembla
+
 # Amend Syllabus
 
-All readings to be determined.
+All future readings to be determined.
 
 # Workshop
 
 - Importing packages from Asset Store / external sources
-- Building a castle with ProBuilder
-- If time allows, scripting a basic interaction with trigger volume and light
+- Intro to ProBuilder
+- Begin work dungeon crawler project
 
 # Due next class (Thursday)
 
