@@ -11,3 +11,6 @@
 
 - Game Dev article summary
 
+Intro to Source Control: https://www.youtube.com/watch?v=K0mgc3efx-A
+
+Ignore the git stuff: https://www.youtube.com/watch?v=M-O8ZNW9icQ
