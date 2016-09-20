@@ -52,11 +52,11 @@ public class VisualizeDotProduct : Editor
 		// Draw lines representing the direction from a0 -> a1
 		Handles.color = Color.green;
 		Handles.DrawLine(	script.a0.transform.position,
-											script.a1.transform.position);
+							script.a1.transform.position);
 
 		Handles.color = Color.red;
 		Handles.DrawLine(	script.b0.transform.position,
-											script.b1.transform.position);
+							script.b1.transform.position);
 
 		Handles.BeginGUI();
 
@@ -80,7 +80,7 @@ public class VisualizeDotProduct : Editor
 		string a_text = "Direction: " + a_direction.ToString();
 		a_text += "\nA dot B: " + Vector3.Dot(a_direction, b_direction);
 
-		Handles.Label( pos_a0 + Vector3.right, a_text, style);
+		Handles.Label(script.transform.position, a_text, style);
 
 		Handles.EndGUI();
 	}
