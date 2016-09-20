@@ -1,6 +1,9 @@
-- Find a game development blog / magazine / journal / forum
-- Read an article / blog post / paper
-- Write a short summary of the ideas presented and how they may apply to your work
+## Journal Assignment Guidelines
+
+- Find a game development blog / magazine / journal / forum.
+- Read an article / blog post / paper.
+- Write a short summary of the ideas presented and how they may apply to your work.
+- Papers should be approximately 1 page double-spaced.
 
 Example article:
 
